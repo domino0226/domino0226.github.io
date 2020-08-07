@@ -14,7 +14,7 @@
     new Typed('.typed', {
       strings: typed_strings,
       loop: true,
-      typeSpeed: 100,
+      typeSpeed: 70,
       backSpeed: 50,
       backDelay: 2000
     });
@@ -138,7 +138,7 @@
     });
   });
 
-  // Testimonials carousel (uses the Owl Carousel library)
+ /* // Testimonials carousel (uses the Owl Carousel library)
   $(".testimonials-carousel").owlCarousel({
     autoplay: true,
     dots: true,
@@ -185,7 +185,7 @@
   $(".carousel-control-next").click(function(){
     $("#myCarousel").carousel("next");
   });
-    
+    */
     
   // Initi AOS
   AOS.init({
