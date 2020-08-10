@@ -14,11 +14,11 @@ body {
 }
 
 a {
-  color: #d3e3fc;
+  color: #4d6d9a;
 }
 
 a:hover {
-  color: #d3e3fc;
+  color: #4d6d9a;
   text-decoration: none;
 }
 
@@ -528,7 +528,7 @@ section {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  color: #149ddd;
+  color: #05386b;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -571,17 +571,19 @@ section {
   color: #fff;
   font-size: 28px;
   text-align: center;
-  background: rgba(20, 157, 221, 0.75);
+  background: #05386b;
   transition: 0.3s;
   width: 50%;
 }
+/*rgba(20, 157, 221, 0.75); 
+rgba(20, 157, 221, 0.95) */
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  background: rgba(20, 157, 221, 0.95);
+  background: #05386b;
 }
 
 .portfolio .portfolio-wrap .portfolio-links a + a {
-  border-left: 1px solid #37b3ed;
+  border-left: 1px solid #05386b;
 }
 
 .portfolio .portfolio-wrap:hover::before {
@@ -615,11 +617,11 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #149ddd;
+  color: #05386b;
   float: left;
   width: 44px;
   height: 44px;
-  background: #dff3fc;
+  background: #d3e3fc;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -639,7 +641,7 @@ section {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
   font-size: 14px;
-  color: #173b6c;
+  color: #05386b;
 }
 
 .contact .info .email p {
@@ -666,12 +668,12 @@ section {
 }
 
 .contact .info .social-links a:hover {
-  background: #149ddd;
+  background: #05386b;
   color: #fff;
 }
 
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
-  background: #149ddd;
+  background: #05386b;
   color: #fff;
 }
 
