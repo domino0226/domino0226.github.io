@@ -138,7 +138,7 @@
     });
   });
 
- /* // Testimonials carousel (uses the Owl Carousel library)
+  // Testimonials carousel (uses the Owl Carousel library)
   $(".testimonials-carousel").owlCarousel({
     autoplay: true,
     dots: true,
@@ -185,7 +185,7 @@
   $(".carousel-control-next").click(function(){
     $("#myCarousel").carousel("next");
   });
-    */
+    
     
   // Initi AOS
   AOS.init({
