@@ -844,6 +844,7 @@ rgba(20, 157, 221, 0.95) */
 }
 
 .portfolio-details .portfolio-details-container {
+  display: flex;
   position: relative;
 }
 
@@ -867,7 +868,7 @@ rgba(20, 157, 221, 0.95) */
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot.active {
-  background-color: #149ddd !important;
+  background-color: #4d6d9a !important; 
 }
 
 .portfolio-details .portfolio-info {
