@@ -316,6 +316,15 @@ section {
   margin-bottom: 0;
 }
 
+a:hover {
+  color: #05386b;
+  text-decoration: underline;
+}
+
+a:active {
+  color: rgba(5, 13, 24, 0.3);
+}
+
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
@@ -507,6 +516,12 @@ section {
   font-family: "Poppins", sans-serif;
   color: #050d18;
   margin-bottom: 10px;
+}
+
+.resume .social-links a:hover {
+  background: #4d6d9a;
+  color: #fff;
+  text-decoration: none;
 }
 
 
