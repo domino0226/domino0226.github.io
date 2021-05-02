@@ -4,5 +4,5 @@ Hi! I am Dominique, a high school student aspiring to become an engineer. Below 
 
 https://dom-dang.github.io/
 
-*March 2020 - *
+*March 2020 -*
 
